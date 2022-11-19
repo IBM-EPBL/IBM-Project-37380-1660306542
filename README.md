@@ -7,5 +7,5 @@ In order to predict the resale value of the car, we proposed an intelligent, fle
 
 ![image22](https://user-images.githubusercontent.com/97331451/196427469-d2a25a0b-ff5c-45ea-a55a-918794e6676b.png)
 Final Output:
-![image23](https://github.com/IBM-EPBL/IBM-Project-37380-1660306542/blob/main/Project%20Development%20Phase/Sprint%203/static/Images/final.png)
+![image23](https://github.com/IBM-EPBL/IBM-Project-37380-1660306542/blob/main/Project%20Development%20Phase/Sprint%203/static/Images/final.PNG)
 
